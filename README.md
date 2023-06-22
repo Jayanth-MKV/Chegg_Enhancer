@@ -2,14 +2,13 @@
 
 ## Overview
 
-The Chegg Question Availability Chrome Extension is a tool designed to enhance your experience on Chegg by providing real-time notifications and a skip button for faster question skipping. This extension saves you time and effort by eliminating the need to constantly check for new questions manually and by streamlining the process of moving on to the next question.
+The Chegg Question Availability Chrome Extension is a tool designed to enhance your experience on Chegg by notifying you with a sound whenever a question becomes available for you to answer. This extension saves you time and effort by eliminating the need to constantly check for new questions manually.
 
 ## Features
 
 - Real-time notification: Receive an audible alert whenever a question is available for you to answer on Chegg.
-- Skip button: Quickly skip to the next question with the click of a button, improving your efficiency in navigating through the questions.
-- Improved productivity: Focus on answering questions rather than wasting time on manual checks or navigating through the interface.
-- Customizable settings: Adjust the sound notification preferences and skip button behavior to suit your preferences and workflow.
+- Improved efficiency: Save time by letting the extension monitor question availability for you, allowing you to focus on answering questions promptly.
+- Customizable settings: Adjust the sound notification preferences to suit your preferences and work environment.
 - Seamless integration: The extension works in the background, providing a seamless experience without interfering with your regular Chegg workflow.
 
 ## Installation
@@ -29,24 +28,8 @@ To install the Chegg Question Availability Chrome Extension, follow these steps:
 2. Ensure that the extension is enabled and active. You should see the extension icon in the Chrome toolbar.
 3. When you are on the Chegg question answering page, the extension will automatically monitor the availability of new questions.
 4. Once a new question becomes available, the extension will play a sound to notify you.
-5. To skip to the next question quickly, click on the "Skip" button provided by the extension.
-6. Customize the extension settings by clicking on the extension icon in the Chrome toolbar.
-   - Adjust the sound notification preferences.
-   - Customize the behavior of the skip button, such as skipping only unanswered questions or skipping questions with specific criteria.
-   - Fine-tune other settings according to your preferences.
-7. Enjoy the convenience of receiving instant alerts for available questions and the efficiency of the skip button feature, allowing you to answer questions more efficiently.
-
-## Troubleshooting
-
-If you encounter any issues or have questions regarding the Chegg Question Availability Chrome Extension, please try the following steps:
-
-1. Ensure that you are using the latest version of the extension.
-2. Check that you have a stable internet connection.
-3. Verify that the extension is enabled and active in the Chrome toolbar.
-4. If the sound notification is not playing, make sure your device's sound is turned on and the volume is audible.
-5. If the extension fails to detect question availability or the skip button doesn't work as expected, try refreshing the page or restarting your browser.
-
-If the problem persists, please [open an issue](https://github.com/your-extension-repo/issues) in the extension's GitHub repository, providing as much detail as possible about the problem you are experiencing.
+5. Click on the extension icon to customize the sound notification settings or disable the extension if needed.
+6. Enjoy the convenience of receiving instant alerts for available questions, allowing you to be more productive and efficient in answering them.
 
 ## Contributing
 
