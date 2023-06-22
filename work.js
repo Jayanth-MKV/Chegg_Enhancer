@@ -39,7 +39,7 @@ var desktopSubmit = "sc-1eq90u-7 sc-1eq90u-8 DGwJN cJxbhG";
 //     //never reach
 //   }
 // });
-// var i = 1;
+var i = 1;
 //skip function
 // function skip() {
 //   if (document.getElementsByClassName(skipClassName)[0] == null) {
@@ -69,9 +69,8 @@ setTimeout(function () {
       if (window.location.href == targetPath)
         window.open("https://expert.chegg.com/expertqna", "_self");
     }
-  } else{
-    // if (i == 1) {
-    // i = 0;
+  } else if (i == 1) {
+    i = 0;
     var sound = new Audio();
     sound.src =
       "https://assets.mixkit.co/sfx/download/mixkit-arcade-retro-game-over-213.wav";
